@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 爬虫凭证（严禁提交）
+bili_cookie.txt
+*cookie*.txt
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 大文件与临时输出
+*.zip
+*.rar
+temp_*.html
